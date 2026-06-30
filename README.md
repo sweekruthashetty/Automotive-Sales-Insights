@@ -22,4 +22,5 @@ The dashboard enables business users to make data-driven decisions using dynamic
 
 <img width="523" height="307" alt="image" src="https://github.com/user-attachments/assets/884465fb-0462-4f9f-82da-eb5c2fb37222" />
 
-![Uploading image.png…]()
+<img width="516" height="290" alt="image" src="https://github.com/user-attachments/assets/1b95798e-61c9-4923-9f50-f1d8bfa621d4" />
+
