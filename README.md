@@ -16,3 +16,6 @@ This project presents an interactive Power BI dashboard designed to analyze and 
 -Company-wise Performance
 
 The dashboard enables business users to make data-driven decisions using dynamic filters and KPI-driven insights.
+
+https://github.com/sweekruthashetty/Automotive-Sales-Insights/blob/main/Car%20Sales%20-Overview.png
+https://github.com/sweekruthashetty/Automotive-Sales-Insights/blob/main/Car%20Sales%20-Overview.png
