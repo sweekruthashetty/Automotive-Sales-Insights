@@ -17,5 +17,7 @@ This project presents an interactive Power BI dashboard designed to analyze and 
 
 The dashboard enables business users to make data-driven decisions using dynamic filters and KPI-driven insights.
 
-https://github.com/sweekruthashetty/Automotive-Sales-Insights/blob/main/Car%20Sales%20-Overview.png
-https://github.com/sweekruthashetty/Automotive-Sales-Insights/blob/main/Car%20Sales%20-Overview.png
+DASHBOARD
+<img width="620" height="368" alt="Car Sales -Overview" src="https://github.com/user-attachments/assets/e7e4df16-7b32-4c11-9ce1-185ddb283df2" />
+
+<img width="642" height="363" alt="Car Sales - Details" src="https://github.com/user-attachments/assets/a89e2abe-680d-4b49-9084-f9aafa1ca0c9" />
